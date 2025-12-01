@@ -146,7 +146,7 @@ This application provides a complete OTP-based authentication system where users
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MUKUNDKUMAR-G/OTP-Authentication-System
 cd otp-authentication
 ```
 
@@ -188,15 +188,16 @@ npm run dev
 The backend will run on `http://localhost:3001`
 
 2. In a new terminal, start the frontend:
-```bash
+```
+bash
 cd frontend
 npm run dev
 ```
+
 The frontend will run on `http://localhost:5173`
 
-3. Open your browser and navigate to `http://localhost:5173`
+3. Open your browser and navigate to `http://localhost:5173
 
-```
 
 ### Using the Application
 
