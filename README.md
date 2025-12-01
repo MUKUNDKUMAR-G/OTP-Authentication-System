@@ -2,15 +2,6 @@
 
 A fullstack web application implementing secure OTP-based authentication with rate limiting, session management, and comprehensive testing. Built as a solution to the Fullstack Developer Challenge focusing on One-Time Password authentication flow.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [API Documentation](#api-documentation)
-
 ## Overview
 
 This application provides a complete OTP-based authentication system where users can log in using their email or phone number. The system generates a One-Time Password, validates it with rate limiting protection, and issues JWT tokens for session management.
